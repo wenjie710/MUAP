@@ -3,7 +3,7 @@
 Code for "Beyond Universal Person Re-Identification Attack (TIFS)".
 
 Run:
-···python tools/tv_inf_scale.py --config xxx ···
+```python tools/tv_inf_scale.py --config xxx ```
 
 Reference
 
