@@ -2,6 +2,9 @@
 
 Code for "Beyond Universal Person Re-Identification Attack (TIFS)".
 
+Run:
+···python tools/tv_inf_scale.py --config xxx ···
+
 Reference
 
 > W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, "Beyond Universal Person Re-Identification Attack," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247.
